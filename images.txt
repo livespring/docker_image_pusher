@@ -1,1 +1,1 @@
-deepseek/deepseek-ai:latest
+deepseek-ai/deepseek:latest
