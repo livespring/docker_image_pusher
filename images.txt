@@ -1,1 +1,1 @@
-deepseek-ai/deepseek:latest
+registry.cn-hangzhou.aliyuncs.com/yilingyi/ollama
